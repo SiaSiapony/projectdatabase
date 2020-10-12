@@ -1,0 +1,18 @@
+@charset "UTF-8";
+#container {
+    width: 600px;
+    height: 200px;
+    text-align: center;
+}
+
+#content {
+    font-size: 20px;
+    font-weight: 400;
+    padding-top: 80px;
+    text-align: center;
+}
+
+#cake {
+    width: 1000px;
+    height: 200px;
+}
